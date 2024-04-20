@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+    color: #8c4e36;
+}
+
+p {
+    margin-right: 180px;
+    font-size: 25px;
+    
+}
+
+nav a {
+    position: fixed;
+    background-color: chocolate;
+    right: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: burlywood;
+    border-radius: 10px;
+    opacity: 0.3;
+}
+
+nav a:hover {
+    right: 0;
+    opacity: 1;
+    color: white;
+}
+
+.q {
+    top: 1px;
+}
+
+.w {
+    top: 60px;
+}
+
+.e {
+    top: 140px;
+}
+
+.r {
+    top: 225px;
+}
+
+.t {
+    top: 335px;
+}
+
+table {
+    border: 2px solid sienna;
+    text-align: center;
+}
+
+td {
+    border: 2px solid sienna;
+}
